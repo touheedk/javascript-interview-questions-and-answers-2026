@@ -42,7 +42,7 @@ Framework-specific questions (React hooks, etc.) are in their own repos. This on
 
 ## Difficulty Key
 
-🟢 Easy — should know cold  ·  🟡 Medium — needs practice  ·  🔴 Hard — senior-level
+🟢 Easy — expected in every interview  ·  🟡 Medium — needs practice  ·  🔴 Hard — senior-level
 
 ---
 
