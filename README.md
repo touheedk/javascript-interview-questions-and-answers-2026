@@ -40,6 +40,12 @@ Framework-specific questions (React hooks, etc.) are in their own repos. This on
 
 ---
 
+## Difficulty Key
+
+🟢 Easy — should know cold  ·  🟡 Medium — needs practice  ·  🔴 Hard — senior-level
+
+---
+
 ## Fundamentals
 
 Type coercion and hoisting are classic trap questions. Understand how == actually works, not just "use ===" as a rule.
@@ -948,12 +954,6 @@ Optional chaining, nullish coalescing, and template literals — know why they w
 - 🟡 [What are best practices for using symbols?](https://interview-prep.coderboi.com/javascript/modern/symbols#q-symbols-best-practices)
 
 [Full answers with code examples →](https://interview-prep.coderboi.com/javascript/modern/symbols)
-
----
-
-## Difficulty Key
-
-🟢 Easy — should know cold  ·  🟡 Medium — needs practice  ·  🔴 Hard — senior-level
 
 ---
 
